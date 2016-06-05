@@ -1,0 +1,847 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="length" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="MUSICIAN 1" label="MUSICIAN 1">
+        <attvalues>
+          <attvalue for="0" value="360" />
+        </attvalues>
+      </node>
+      <node id="CAPULET 2" label="CAPULET 2">
+        <attvalues>
+          <attvalue for="0" value="106" />
+        </attvalues>
+      </node>
+      <node id="SAMPSON" label="SAMPSON">
+        <attvalues>
+          <attvalue for="0" value="1449" />
+        </attvalues>
+      </node>
+      <node id="TYBALT" label="TYBALT">
+        <attvalues>
+          <attvalue for="0" value="1633" />
+        </attvalues>
+      </node>
+      <node id="LADY CAPULET" label="LADY CAPULET">
+        <attvalues>
+          <attvalue for="0" value="5112" />
+        </attvalues>
+      </node>
+      <node id="MONTAGUE" label="MONTAGUE">
+        <attvalues>
+          <attvalue for="0" value="1854" />
+        </attvalues>
+      </node>
+      <node id="MUSICIANS" label="MUSICIANS">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="APOTHECARY" label="APOTHECARY">
+        <attvalues>
+          <attvalue for="0" value="306" />
+        </attvalues>
+      </node>
+      <node id="NURSE" label="NURSE">
+        <attvalues>
+          <attvalue for="0" value="12113" />
+        </attvalues>
+      </node>
+      <node id="SERVANT 2" label="SERVANT 2">
+        <attvalues>
+          <attvalue for="0" value="561" />
+        </attvalues>
+      </node>
+      <node id="SERVANT 3" label="SERVANT 3">
+        <attvalues>
+          <attvalue for="0" value="41" />
+        </attvalues>
+      </node>
+      <node id="CAPULET" label="CAPULET">
+        <attvalues>
+          <attvalue for="0" value="12281" />
+        </attvalues>
+      </node>
+      <node id="ROMEO" label="ROMEO">
+        <attvalues>
+          <attvalue for="0" value="26954" />
+        </attvalues>
+      </node>
+      <node id="SERVANT" label="SERVANT">
+        <attvalues>
+          <attvalue for="0" value="1494" />
+        </attvalues>
+      </node>
+      <node id="PROLOGUE" label="PROLOGUE">
+        <attvalues>
+          <attvalue for="0" value="1456" />
+        </attvalues>
+      </node>
+      <node id="PETER" label="PETER">
+        <attvalues>
+          <attvalue for="0" value="1398" />
+        </attvalues>
+      </node>
+      <node id="LADY MONTAGUE" label="LADY MONTAGUE">
+        <attvalues>
+          <attvalue for="0" value="140" />
+        </attvalues>
+      </node>
+      <node id="MERCUTIO" label="MERCUTIO">
+        <attvalues>
+          <attvalue for="0" value="11765" />
+        </attvalues>
+      </node>
+      <node id="MUSICIAN 3" label="MUSICIAN 3">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </node>
+      <node id="MUSICIAN 2" label="MUSICIAN 2">
+        <attvalues>
+          <attvalue for="0" value="322" />
+        </attvalues>
+      </node>
+      <node id="PARIS" label="PARIS">
+        <attvalues>
+          <attvalue for="0" value="3291" />
+        </attvalues>
+      </node>
+      <node id="FRIAR JOHN" label="FRIAR JOHN">
+        <attvalues>
+          <attvalue for="0" value="558" />
+        </attvalues>
+      </node>
+      <node id="FRIAR LAURENCE" label="FRIAR LAURENCE">
+        <attvalues>
+          <attvalue for="0" value="16019" />
+        </attvalues>
+      </node>
+      <node id="GREGORY" label="GREGORY">
+        <attvalues>
+          <attvalue for="0" value="933" />
+        </attvalues>
+      </node>
+      <node id="ABRAHAM" label="ABRAHAM">
+        <attvalues>
+          <attvalue for="0" value="148" />
+        </attvalues>
+      </node>
+      <node id="PRINCE" label="PRINCE">
+        <attvalues>
+          <attvalue for="0" value="3403" />
+        </attvalues>
+      </node>
+      <node id="JULIET" label="JULIET">
+        <attvalues>
+          <attvalue for="0" value="24333" />
+        </attvalues>
+      </node>
+      <node id="WATCH 2" label="WATCH 2">
+        <attvalues>
+          <attvalue for="0" value="60" />
+        </attvalues>
+      </node>
+      <node id="WATCH 3" label="WATCH 3">
+        <attvalues>
+          <attvalue for="0" value="150" />
+        </attvalues>
+      </node>
+      <node id="CITIZEN 1" label="CITIZEN 1">
+        <attvalues>
+          <attvalue for="0" value="162" />
+        </attvalues>
+      </node>
+      <node id="WATCH 1" label="WATCH 1">
+        <attvalues>
+          <attvalue for="0" value="971" />
+        </attvalues>
+      </node>
+      <node id="CITIZENS" label="CITIZENS">
+        <attvalues>
+          <attvalue for="0" value="111" />
+        </attvalues>
+      </node>
+      <node id="CHORUS" label="CHORUS">
+        <attvalues>
+          <attvalue for="0" value="1404" />
+        </attvalues>
+      </node>
+      <node id="BALTHASAR" label="BALTHASAR">
+        <attvalues>
+          <attvalue for="0" value="1327" />
+        </attvalues>
+      </node>
+      <node id="PAGE" label="PAGE">
+        <attvalues>
+          <attvalue for="0" value="454" />
+        </attvalues>
+      </node>
+      <node id="BENVOLIO" label="BENVOLIO">
+        <attvalues>
+          <attvalue for="0" value="6895" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="MUSICIAN 1" target="MUSICIAN 1" weight="1" />
+      <edge id="1" source="MUSICIAN 1" target="MUSICIAN 3" weight="1" />
+      <edge id="2" source="MUSICIAN 1" target="MUSICIAN 2" weight="1" />
+      <edge id="3" source="MUSICIAN 1" target="PARIS" weight="1" />
+      <edge id="4" source="MUSICIAN 1" target="FRIAR LAURENCE" weight="1" />
+      <edge id="5" source="MUSICIAN 1" target="LADY CAPULET" weight="1" />
+      <edge id="6" source="MUSICIAN 1" target="CAPULET" weight="1" />
+      <edge id="7" source="MUSICIAN 1" target="SERVANT" weight="1" />
+      <edge id="8" source="MUSICIAN 1" target="MUSICIANS" weight="1" />
+      <edge id="9" source="MUSICIAN 1" target="NURSE" weight="1" />
+      <edge id="10" source="MUSICIAN 1" target="PETER" weight="1" />
+      <edge id="11" source="MUSICIAN 1" target="SERVANT 2" weight="1" />
+      <edge id="12" source="MUSICIAN 1" target="JULIET" weight="1" />
+      <edge id="13" source="CAPULET 2" target="CAPULET 2" weight="1" />
+      <edge id="14" source="CAPULET 2" target="SERVANT" weight="1" />
+      <edge id="15" source="CAPULET 2" target="ROMEO" weight="1" />
+      <edge id="16" source="CAPULET 2" target="CHORUS" weight="1" />
+      <edge id="17" source="CAPULET 2" target="TYBALT" weight="1" />
+      <edge id="18" source="CAPULET 2" target="PROLOGUE" weight="1" />
+      <edge id="19" source="CAPULET 2" target="NURSE" weight="1" />
+      <edge id="20" source="CAPULET 2" target="CAPULET" weight="1" />
+      <edge id="21" source="CAPULET 2" target="SERVANT 2" weight="1" />
+      <edge id="22" source="CAPULET 2" target="SERVANT 3" weight="1" />
+      <edge id="23" source="CAPULET 2" target="BENVOLIO" weight="1" />
+      <edge id="24" source="CAPULET 2" target="JULIET" weight="1" />
+      <edge id="25" source="SAMPSON" target="SAMPSON" weight="1" />
+      <edge id="26" source="SAMPSON" target="TYBALT" weight="1" />
+      <edge id="27" source="SAMPSON" target="CITIZENS" weight="1" />
+      <edge id="28" source="SAMPSON" target="LADY CAPULET" weight="1" />
+      <edge id="29" source="SAMPSON" target="ROMEO" weight="1" />
+      <edge id="30" source="SAMPSON" target="MONTAGUE" weight="1" />
+      <edge id="31" source="SAMPSON" target="LADY MONTAGUE" weight="1" />
+      <edge id="32" source="SAMPSON" target="GREGORY" weight="1" />
+      <edge id="33" source="SAMPSON" target="ABRAHAM" weight="1" />
+      <edge id="34" source="SAMPSON" target="PRINCE" weight="1" />
+      <edge id="35" source="SAMPSON" target="BENVOLIO" weight="1" />
+      <edge id="36" source="SAMPSON" target="CAPULET" weight="1" />
+      <edge id="37" source="TYBALT" target="CAPULET 2" weight="1" />
+      <edge id="38" source="TYBALT" target="SAMPSON" weight="1" />
+      <edge id="39" source="TYBALT" target="TYBALT" weight="3" />
+      <edge id="40" source="TYBALT" target="LADY CAPULET" weight="2" />
+      <edge id="41" source="TYBALT" target="MONTAGUE" weight="2" />
+      <edge id="42" source="TYBALT" target="NURSE" weight="2" />
+      <edge id="43" source="TYBALT" target="SERVANT 2" weight="1" />
+      <edge id="44" source="TYBALT" target="SERVANT 3" weight="1" />
+      <edge id="45" source="TYBALT" target="CAPULET" weight="3" />
+      <edge id="46" source="TYBALT" target="ROMEO" weight="3" />
+      <edge id="47" source="TYBALT" target="SERVANT" weight="1" />
+      <edge id="48" source="TYBALT" target="PROLOGUE" weight="1" />
+      <edge id="49" source="TYBALT" target="LADY MONTAGUE" weight="1" />
+      <edge id="50" source="TYBALT" target="MERCUTIO" weight="1" />
+      <edge id="51" source="TYBALT" target="PARIS" weight="1" />
+      <edge id="52" source="TYBALT" target="FRIAR LAURENCE" weight="1" />
+      <edge id="53" source="TYBALT" target="GREGORY" weight="1" />
+      <edge id="54" source="TYBALT" target="ABRAHAM" weight="1" />
+      <edge id="55" source="TYBALT" target="PRINCE" weight="2" />
+      <edge id="56" source="TYBALT" target="JULIET" weight="2" />
+      <edge id="57" source="TYBALT" target="CITIZEN 1" weight="1" />
+      <edge id="58" source="TYBALT" target="CITIZENS" weight="1" />
+      <edge id="59" source="TYBALT" target="CHORUS" weight="1" />
+      <edge id="60" source="TYBALT" target="BENVOLIO" weight="3" />
+      <edge id="61" source="LADY CAPULET" target="MUSICIAN 1" weight="1" />
+      <edge id="62" source="LADY CAPULET" target="SAMPSON" weight="1" />
+      <edge id="63" source="LADY CAPULET" target="TYBALT" weight="2" />
+      <edge id="64" source="LADY CAPULET" target="LADY CAPULET" weight="5" />
+      <edge id="65" source="LADY CAPULET" target="MONTAGUE" weight="3" />
+      <edge id="66" source="LADY CAPULET" target="MUSICIANS" weight="1" />
+      <edge id="67" source="LADY CAPULET" target="APOTHECARY" weight="1" />
+      <edge id="68" source="LADY CAPULET" target="NURSE" weight="3" />
+      <edge id="69" source="LADY CAPULET" target="SERVANT 2" weight="1" />
+      <edge id="70" source="LADY CAPULET" target="CAPULET" weight="4" />
+      <edge id="71" source="LADY CAPULET" target="ROMEO" weight="3" />
+      <edge id="72" source="LADY CAPULET" target="SERVANT" weight="2" />
+      <edge id="73" source="LADY CAPULET" target="PETER" weight="1" />
+      <edge id="74" source="LADY CAPULET" target="LADY MONTAGUE" weight="1" />
+      <edge id="75" source="LADY CAPULET" target="MERCUTIO" weight="1" />
+      <edge id="76" source="LADY CAPULET" target="MUSICIAN 3" weight="1" />
+      <edge id="77" source="LADY CAPULET" target="MUSICIAN 2" weight="1" />
+      <edge id="78" source="LADY CAPULET" target="PARIS" weight="3" />
+      <edge id="79" source="LADY CAPULET" target="FRIAR JOHN" weight="1" />
+      <edge id="80" source="LADY CAPULET" target="FRIAR LAURENCE" weight="3" />
+      <edge id="81" source="LADY CAPULET" target="GREGORY" weight="1" />
+      <edge id="82" source="LADY CAPULET" target="ABRAHAM" weight="1" />
+      <edge id="83" source="LADY CAPULET" target="PRINCE" weight="3" />
+      <edge id="84" source="LADY CAPULET" target="JULIET" weight="4" />
+      <edge id="85" source="LADY CAPULET" target="WATCH 2" weight="1" />
+      <edge id="86" source="LADY CAPULET" target="WATCH 3" weight="1" />
+      <edge id="87" source="LADY CAPULET" target="CITIZEN 1" weight="1" />
+      <edge id="88" source="LADY CAPULET" target="WATCH 1" weight="1" />
+      <edge id="89" source="LADY CAPULET" target="CITIZENS" weight="1" />
+      <edge id="90" source="LADY CAPULET" target="BALTHASAR" weight="1" />
+      <edge id="91" source="LADY CAPULET" target="PAGE" weight="1" />
+      <edge id="92" source="LADY CAPULET" target="BENVOLIO" weight="2" />
+      <edge id="93" source="MONTAGUE" target="SAMPSON" weight="1" />
+      <edge id="94" source="MONTAGUE" target="TYBALT" weight="2" />
+      <edge id="95" source="MONTAGUE" target="LADY CAPULET" weight="3" />
+      <edge id="96" source="MONTAGUE" target="MONTAGUE" weight="3" />
+      <edge id="97" source="MONTAGUE" target="APOTHECARY" weight="1" />
+      <edge id="98" source="MONTAGUE" target="NURSE" weight="1" />
+      <edge id="99" source="MONTAGUE" target="CAPULET" weight="3" />
+      <edge id="100" source="MONTAGUE" target="ROMEO" weight="3" />
+      <edge id="101" source="MONTAGUE" target="CITIZEN 1" weight="1" />
+      <edge id="102" source="MONTAGUE" target="LADY MONTAGUE" weight="1" />
+      <edge id="103" source="MONTAGUE" target="MERCUTIO" weight="1" />
+      <edge id="104" source="MONTAGUE" target="PARIS" weight="2" />
+      <edge id="105" source="MONTAGUE" target="FRIAR JOHN" weight="1" />
+      <edge id="106" source="MONTAGUE" target="FRIAR LAURENCE" weight="2" />
+      <edge id="107" source="MONTAGUE" target="GREGORY" weight="1" />
+      <edge id="108" source="MONTAGUE" target="ABRAHAM" weight="1" />
+      <edge id="109" source="MONTAGUE" target="PRINCE" weight="3" />
+      <edge id="110" source="MONTAGUE" target="JULIET" weight="2" />
+      <edge id="111" source="MONTAGUE" target="WATCH 2" weight="1" />
+      <edge id="112" source="MONTAGUE" target="WATCH 3" weight="1" />
+      <edge id="113" source="MONTAGUE" target="WATCH 1" weight="1" />
+      <edge id="114" source="MONTAGUE" target="CITIZENS" weight="1" />
+      <edge id="115" source="MONTAGUE" target="BALTHASAR" weight="1" />
+      <edge id="116" source="MONTAGUE" target="PAGE" weight="1" />
+      <edge id="117" source="MONTAGUE" target="BENVOLIO" weight="2" />
+      <edge id="118" source="MUSICIANS" target="MUSICIAN 1" weight="1" />
+      <edge id="119" source="MUSICIANS" target="MUSICIAN 3" weight="1" />
+      <edge id="120" source="MUSICIANS" target="MUSICIAN 2" weight="1" />
+      <edge id="121" source="MUSICIANS" target="PARIS" weight="1" />
+      <edge id="122" source="MUSICIANS" target="FRIAR LAURENCE" weight="1" />
+      <edge id="123" source="MUSICIANS" target="LADY CAPULET" weight="1" />
+      <edge id="124" source="MUSICIANS" target="CAPULET" weight="1" />
+      <edge id="125" source="MUSICIANS" target="SERVANT" weight="1" />
+      <edge id="126" source="MUSICIANS" target="MUSICIANS" weight="1" />
+      <edge id="127" source="MUSICIANS" target="NURSE" weight="1" />
+      <edge id="128" source="MUSICIANS" target="PETER" weight="1" />
+      <edge id="129" source="MUSICIANS" target="SERVANT 2" weight="1" />
+      <edge id="130" source="MUSICIANS" target="JULIET" weight="1" />
+      <edge id="131" source="APOTHECARY" target="WATCH 2" weight="1" />
+      <edge id="132" source="APOTHECARY" target="WATCH 3" weight="1" />
+      <edge id="133" source="APOTHECARY" target="WATCH 1" weight="1" />
+      <edge id="134" source="APOTHECARY" target="PARIS" weight="1" />
+      <edge id="135" source="APOTHECARY" target="FRIAR JOHN" weight="1" />
+      <edge id="136" source="APOTHECARY" target="FRIAR LAURENCE" weight="1" />
+      <edge id="137" source="APOTHECARY" target="LADY CAPULET" weight="1" />
+      <edge id="138" source="APOTHECARY" target="ROMEO" weight="1" />
+      <edge id="139" source="APOTHECARY" target="MONTAGUE" weight="1" />
+      <edge id="140" source="APOTHECARY" target="BALTHASAR" weight="1" />
+      <edge id="141" source="APOTHECARY" target="APOTHECARY" weight="1" />
+      <edge id="142" source="APOTHECARY" target="JULIET" weight="1" />
+      <edge id="143" source="APOTHECARY" target="PAGE" weight="1" />
+      <edge id="144" source="APOTHECARY" target="PRINCE" weight="1" />
+      <edge id="145" source="APOTHECARY" target="CAPULET" weight="1" />
+      <edge id="146" source="NURSE" target="MUSICIAN 1" weight="1" />
+      <edge id="147" source="NURSE" target="CAPULET 2" weight="1" />
+      <edge id="148" source="NURSE" target="CITIZEN 1" weight="1" />
+      <edge id="149" source="NURSE" target="LADY CAPULET" weight="3" />
+      <edge id="150" source="NURSE" target="MONTAGUE" weight="1" />
+      <edge id="151" source="NURSE" target="MUSICIANS" weight="1" />
+      <edge id="152" source="NURSE" target="NURSE" weight="5" />
+      <edge id="153" source="NURSE" target="SERVANT 2" weight="2" />
+      <edge id="154" source="NURSE" target="SERVANT 3" weight="1" />
+      <edge id="155" source="NURSE" target="CAPULET" weight="3" />
+      <edge id="156" source="NURSE" target="TYBALT" weight="2" />
+      <edge id="157" source="NURSE" target="ROMEO" weight="3" />
+      <edge id="158" source="NURSE" target="SERVANT" weight="3" />
+      <edge id="159" source="NURSE" target="PROLOGUE" weight="1" />
+      <edge id="160" source="NURSE" target="PETER" weight="2" />
+      <edge id="161" source="NURSE" target="MERCUTIO" weight="2" />
+      <edge id="162" source="NURSE" target="MUSICIAN 3" weight="1" />
+      <edge id="163" source="NURSE" target="MUSICIAN 2" weight="1" />
+      <edge id="164" source="NURSE" target="PARIS" weight="2" />
+      <edge id="165" source="NURSE" target="FRIAR LAURENCE" weight="3" />
+      <edge id="166" source="NURSE" target="PRINCE" weight="1" />
+      <edge id="167" source="NURSE" target="JULIET" weight="5" />
+      <edge id="168" source="NURSE" target="CHORUS" weight="1" />
+      <edge id="169" source="NURSE" target="BENVOLIO" weight="3" />
+      <edge id="170" source="SERVANT 2" target="MUSICIAN 1" weight="1" />
+      <edge id="171" source="SERVANT 2" target="MUSICIAN 3" weight="1" />
+      <edge id="172" source="SERVANT 2" target="CAPULET 2" weight="1" />
+      <edge id="173" source="SERVANT 2" target="SERVANT" weight="2" />
+      <edge id="174" source="SERVANT 2" target="FRIAR LAURENCE" weight="1" />
+      <edge id="175" source="SERVANT 2" target="LADY CAPULET" weight="1" />
+      <edge id="176" source="SERVANT 2" target="PETER" weight="1" />
+      <edge id="177" source="SERVANT 2" target="ROMEO" weight="1" />
+      <edge id="178" source="SERVANT 2" target="CHORUS" weight="1" />
+      <edge id="179" source="SERVANT 2" target="TYBALT" weight="1" />
+      <edge id="180" source="SERVANT 2" target="MUSICIAN 2" weight="1" />
+      <edge id="181" source="SERVANT 2" target="MUSICIANS" weight="1" />
+      <edge id="182" source="SERVANT 2" target="PARIS" weight="1" />
+      <edge id="183" source="SERVANT 2" target="PROLOGUE" weight="1" />
+      <edge id="184" source="SERVANT 2" target="NURSE" weight="2" />
+      <edge id="185" source="SERVANT 2" target="CAPULET" weight="2" />
+      <edge id="186" source="SERVANT 2" target="SERVANT 2" weight="2" />
+      <edge id="187" source="SERVANT 2" target="SERVANT 3" weight="1" />
+      <edge id="188" source="SERVANT 2" target="BENVOLIO" weight="1" />
+      <edge id="189" source="SERVANT 2" target="JULIET" weight="2" />
+      <edge id="190" source="SERVANT 3" target="CAPULET 2" weight="1" />
+      <edge id="191" source="SERVANT 3" target="SERVANT" weight="1" />
+      <edge id="192" source="SERVANT 3" target="ROMEO" weight="1" />
+      <edge id="193" source="SERVANT 3" target="CHORUS" weight="1" />
+      <edge id="194" source="SERVANT 3" target="TYBALT" weight="1" />
+      <edge id="195" source="SERVANT 3" target="PROLOGUE" weight="1" />
+      <edge id="196" source="SERVANT 3" target="NURSE" weight="1" />
+      <edge id="197" source="SERVANT 3" target="CAPULET" weight="1" />
+      <edge id="198" source="SERVANT 3" target="SERVANT 2" weight="1" />
+      <edge id="199" source="SERVANT 3" target="SERVANT 3" weight="1" />
+      <edge id="200" source="SERVANT 3" target="BENVOLIO" weight="1" />
+      <edge id="201" source="SERVANT 3" target="JULIET" weight="1" />
+      <edge id="202" source="CAPULET" target="MUSICIAN 1" weight="1" />
+      <edge id="203" source="CAPULET" target="CAPULET 2" weight="1" />
+      <edge id="204" source="CAPULET" target="SAMPSON" weight="1" />
+      <edge id="205" source="CAPULET" target="TYBALT" weight="3" />
+      <edge id="206" source="CAPULET" target="LADY CAPULET" weight="4" />
+      <edge id="207" source="CAPULET" target="MONTAGUE" weight="3" />
+      <edge id="208" source="CAPULET" target="MUSICIANS" weight="1" />
+      <edge id="209" source="CAPULET" target="APOTHECARY" weight="1" />
+      <edge id="210" source="CAPULET" target="NURSE" weight="3" />
+      <edge id="211" source="CAPULET" target="SERVANT 2" weight="2" />
+      <edge id="212" source="CAPULET" target="SERVANT 3" weight="1" />
+      <edge id="213" source="CAPULET" target="CAPULET" weight="6" />
+      <edge id="214" source="CAPULET" target="ROMEO" weight="5" />
+      <edge id="215" source="CAPULET" target="SERVANT" weight="3" />
+      <edge id="216" source="CAPULET" target="PROLOGUE" weight="1" />
+      <edge id="217" source="CAPULET" target="PETER" weight="1" />
+      <edge id="218" source="CAPULET" target="LADY MONTAGUE" weight="1" />
+      <edge id="219" source="CAPULET" target="MERCUTIO" weight="1" />
+      <edge id="220" source="CAPULET" target="MUSICIAN 3" weight="1" />
+      <edge id="221" source="CAPULET" target="MUSICIAN 2" weight="1" />
+      <edge id="222" source="CAPULET" target="PARIS" weight="4" />
+      <edge id="223" source="CAPULET" target="FRIAR JOHN" weight="1" />
+      <edge id="224" source="CAPULET" target="FRIAR LAURENCE" weight="3" />
+      <edge id="225" source="CAPULET" target="GREGORY" weight="1" />
+      <edge id="226" source="CAPULET" target="ABRAHAM" weight="1" />
+      <edge id="227" source="CAPULET" target="PRINCE" weight="3" />
+      <edge id="228" source="CAPULET" target="JULIET" weight="4" />
+      <edge id="229" source="CAPULET" target="WATCH 2" weight="1" />
+      <edge id="230" source="CAPULET" target="WATCH 3" weight="1" />
+      <edge id="231" source="CAPULET" target="CITIZEN 1" weight="1" />
+      <edge id="232" source="CAPULET" target="WATCH 1" weight="1" />
+      <edge id="233" source="CAPULET" target="CITIZENS" weight="1" />
+      <edge id="234" source="CAPULET" target="CHORUS" weight="1" />
+      <edge id="235" source="CAPULET" target="BALTHASAR" weight="1" />
+      <edge id="236" source="CAPULET" target="PAGE" weight="1" />
+      <edge id="237" source="CAPULET" target="BENVOLIO" weight="4" />
+      <edge id="238" source="ROMEO" target="CAPULET 2" weight="1" />
+      <edge id="239" source="ROMEO" target="SAMPSON" weight="1" />
+      <edge id="240" source="ROMEO" target="TYBALT" weight="3" />
+      <edge id="241" source="ROMEO" target="LADY CAPULET" weight="3" />
+      <edge id="242" source="ROMEO" target="MONTAGUE" weight="3" />
+      <edge id="243" source="ROMEO" target="APOTHECARY" weight="1" />
+      <edge id="244" source="ROMEO" target="NURSE" weight="3" />
+      <edge id="245" source="ROMEO" target="SERVANT 2" weight="1" />
+      <edge id="246" source="ROMEO" target="SERVANT 3" weight="1" />
+      <edge id="247" source="ROMEO" target="CAPULET" weight="5" />
+      <edge id="248" source="ROMEO" target="ROMEO" weight="8" />
+      <edge id="249" source="ROMEO" target="SERVANT" weight="2" />
+      <edge id="250" source="ROMEO" target="PROLOGUE" weight="1" />
+      <edge id="251" source="ROMEO" target="PETER" weight="1" />
+      <edge id="252" source="ROMEO" target="LADY MONTAGUE" weight="1" />
+      <edge id="253" source="ROMEO" target="MERCUTIO" weight="3" />
+      <edge id="254" source="ROMEO" target="PARIS" weight="3" />
+      <edge id="255" source="ROMEO" target="FRIAR JOHN" weight="1" />
+      <edge id="256" source="ROMEO" target="FRIAR LAURENCE" weight="4" />
+      <edge id="257" source="ROMEO" target="GREGORY" weight="1" />
+      <edge id="258" source="ROMEO" target="ABRAHAM" weight="1" />
+      <edge id="259" source="ROMEO" target="PRINCE" weight="3" />
+      <edge id="260" source="ROMEO" target="JULIET" weight="5" />
+      <edge id="261" source="ROMEO" target="WATCH 2" weight="1" />
+      <edge id="262" source="ROMEO" target="WATCH 3" weight="1" />
+      <edge id="263" source="ROMEO" target="CITIZEN 1" weight="1" />
+      <edge id="264" source="ROMEO" target="WATCH 1" weight="1" />
+      <edge id="265" source="ROMEO" target="CITIZENS" weight="1" />
+      <edge id="266" source="ROMEO" target="CHORUS" weight="1" />
+      <edge id="267" source="ROMEO" target="BALTHASAR" weight="1" />
+      <edge id="268" source="ROMEO" target="PAGE" weight="1" />
+      <edge id="269" source="ROMEO" target="BENVOLIO" weight="6" />
+      <edge id="270" source="SERVANT" target="MUSICIAN 1" weight="1" />
+      <edge id="271" source="SERVANT" target="MUSICIAN 3" weight="1" />
+      <edge id="272" source="SERVANT" target="CAPULET 2" weight="1" />
+      <edge id="273" source="SERVANT" target="TYBALT" weight="1" />
+      <edge id="274" source="SERVANT" target="PARIS" weight="2" />
+      <edge id="275" source="SERVANT" target="FRIAR LAURENCE" weight="1" />
+      <edge id="276" source="SERVANT" target="LADY CAPULET" weight="2" />
+      <edge id="277" source="SERVANT" target="PETER" weight="1" />
+      <edge id="278" source="SERVANT" target="ROMEO" weight="2" />
+      <edge id="279" source="SERVANT" target="CHORUS" weight="1" />
+      <edge id="280" source="SERVANT" target="SERVANT" weight="4" />
+      <edge id="281" source="SERVANT" target="MUSICIAN 2" weight="1" />
+      <edge id="282" source="SERVANT" target="MUSICIANS" weight="1" />
+      <edge id="283" source="SERVANT" target="PROLOGUE" weight="1" />
+      <edge id="284" source="SERVANT" target="NURSE" weight="3" />
+      <edge id="285" source="SERVANT" target="JULIET" weight="3" />
+      <edge id="286" source="SERVANT" target="SERVANT 2" weight="2" />
+      <edge id="287" source="SERVANT" target="SERVANT 3" weight="1" />
+      <edge id="288" source="SERVANT" target="BENVOLIO" weight="2" />
+      <edge id="289" source="SERVANT" target="CAPULET" weight="3" />
+      <edge id="290" source="PROLOGUE" target="CAPULET 2" weight="1" />
+      <edge id="291" source="PROLOGUE" target="SERVANT" weight="1" />
+      <edge id="292" source="PROLOGUE" target="ROMEO" weight="1" />
+      <edge id="293" source="PROLOGUE" target="CHORUS" weight="2" />
+      <edge id="294" source="PROLOGUE" target="TYBALT" weight="1" />
+      <edge id="295" source="PROLOGUE" target="PROLOGUE" weight="2" />
+      <edge id="296" source="PROLOGUE" target="NURSE" weight="1" />
+      <edge id="297" source="PROLOGUE" target="CAPULET" weight="1" />
+      <edge id="298" source="PROLOGUE" target="SERVANT 2" weight="1" />
+      <edge id="299" source="PROLOGUE" target="SERVANT 3" weight="1" />
+      <edge id="300" source="PROLOGUE" target="BENVOLIO" weight="1" />
+      <edge id="301" source="PROLOGUE" target="JULIET" weight="1" />
+      <edge id="302" source="PETER" target="MERCUTIO" weight="1" />
+      <edge id="303" source="PETER" target="MUSICIAN 1" weight="1" />
+      <edge id="304" source="PETER" target="MUSICIAN 3" weight="1" />
+      <edge id="305" source="PETER" target="MUSICIAN 2" weight="1" />
+      <edge id="306" source="PETER" target="PARIS" weight="1" />
+      <edge id="307" source="PETER" target="FRIAR LAURENCE" weight="2" />
+      <edge id="308" source="PETER" target="LADY CAPULET" weight="1" />
+      <edge id="309" source="PETER" target="ROMEO" weight="1" />
+      <edge id="310" source="PETER" target="CAPULET" weight="1" />
+      <edge id="311" source="PETER" target="SERVANT" weight="1" />
+      <edge id="312" source="PETER" target="MUSICIANS" weight="1" />
+      <edge id="313" source="PETER" target="NURSE" weight="2" />
+      <edge id="314" source="PETER" target="PETER" weight="2" />
+      <edge id="315" source="PETER" target="SERVANT 2" weight="1" />
+      <edge id="316" source="PETER" target="BENVOLIO" weight="1" />
+      <edge id="317" source="PETER" target="JULIET" weight="2" />
+      <edge id="318" source="LADY MONTAGUE" target="SAMPSON" weight="1" />
+      <edge id="319" source="LADY MONTAGUE" target="TYBALT" weight="1" />
+      <edge id="320" source="LADY MONTAGUE" target="CITIZENS" weight="1" />
+      <edge id="321" source="LADY MONTAGUE" target="LADY CAPULET" weight="1" />
+      <edge id="322" source="LADY MONTAGUE" target="ROMEO" weight="1" />
+      <edge id="323" source="LADY MONTAGUE" target="MONTAGUE" weight="1" />
+      <edge id="324" source="LADY MONTAGUE" target="LADY MONTAGUE" weight="1" />
+      <edge id="325" source="LADY MONTAGUE" target="GREGORY" weight="1" />
+      <edge id="326" source="LADY MONTAGUE" target="ABRAHAM" weight="1" />
+      <edge id="327" source="LADY MONTAGUE" target="PRINCE" weight="1" />
+      <edge id="328" source="LADY MONTAGUE" target="BENVOLIO" weight="1" />
+      <edge id="329" source="LADY MONTAGUE" target="CAPULET" weight="1" />
+      <edge id="330" source="MERCUTIO" target="MERCUTIO" weight="3" />
+      <edge id="331" source="MERCUTIO" target="TYBALT" weight="1" />
+      <edge id="332" source="MERCUTIO" target="FRIAR LAURENCE" weight="2" />
+      <edge id="333" source="MERCUTIO" target="LADY CAPULET" weight="1" />
+      <edge id="334" source="MERCUTIO" target="ROMEO" weight="3" />
+      <edge id="335" source="MERCUTIO" target="MONTAGUE" weight="1" />
+      <edge id="336" source="MERCUTIO" target="CITIZEN 1" weight="1" />
+      <edge id="337" source="MERCUTIO" target="CAPULET" weight="1" />
+      <edge id="338" source="MERCUTIO" target="NURSE" weight="2" />
+      <edge id="339" source="MERCUTIO" target="PETER" weight="1" />
+      <edge id="340" source="MERCUTIO" target="PARIS" weight="1" />
+      <edge id="341" source="MERCUTIO" target="PRINCE" weight="1" />
+      <edge id="342" source="MERCUTIO" target="BENVOLIO" weight="3" />
+      <edge id="343" source="MERCUTIO" target="JULIET" weight="2" />
+      <edge id="344" source="MUSICIAN 3" target="MUSICIAN 1" weight="1" />
+      <edge id="345" source="MUSICIAN 3" target="MUSICIAN 3" weight="1" />
+      <edge id="346" source="MUSICIAN 3" target="MUSICIAN 2" weight="1" />
+      <edge id="347" source="MUSICIAN 3" target="PARIS" weight="1" />
+      <edge id="348" source="MUSICIAN 3" target="FRIAR LAURENCE" weight="1" />
+      <edge id="349" source="MUSICIAN 3" target="LADY CAPULET" weight="1" />
+      <edge id="350" source="MUSICIAN 3" target="CAPULET" weight="1" />
+      <edge id="351" source="MUSICIAN 3" target="SERVANT" weight="1" />
+      <edge id="352" source="MUSICIAN 3" target="MUSICIANS" weight="1" />
+      <edge id="353" source="MUSICIAN 3" target="NURSE" weight="1" />
+      <edge id="354" source="MUSICIAN 3" target="PETER" weight="1" />
+      <edge id="355" source="MUSICIAN 3" target="SERVANT 2" weight="1" />
+      <edge id="356" source="MUSICIAN 3" target="JULIET" weight="1" />
+      <edge id="357" source="MUSICIAN 2" target="MUSICIAN 1" weight="1" />
+      <edge id="358" source="MUSICIAN 2" target="MUSICIAN 3" weight="1" />
+      <edge id="359" source="MUSICIAN 2" target="MUSICIAN 2" weight="1" />
+      <edge id="360" source="MUSICIAN 2" target="PARIS" weight="1" />
+      <edge id="361" source="MUSICIAN 2" target="FRIAR LAURENCE" weight="1" />
+      <edge id="362" source="MUSICIAN 2" target="LADY CAPULET" weight="1" />
+      <edge id="363" source="MUSICIAN 2" target="CAPULET" weight="1" />
+      <edge id="364" source="MUSICIAN 2" target="SERVANT" weight="1" />
+      <edge id="365" source="MUSICIAN 2" target="MUSICIANS" weight="1" />
+      <edge id="366" source="MUSICIAN 2" target="NURSE" weight="1" />
+      <edge id="367" source="MUSICIAN 2" target="PETER" weight="1" />
+      <edge id="368" source="MUSICIAN 2" target="SERVANT 2" weight="1" />
+      <edge id="369" source="MUSICIAN 2" target="JULIET" weight="1" />
+      <edge id="370" source="PARIS" target="MUSICIAN 1" weight="1" />
+      <edge id="371" source="PARIS" target="TYBALT" weight="1" />
+      <edge id="372" source="PARIS" target="LADY CAPULET" weight="3" />
+      <edge id="373" source="PARIS" target="MONTAGUE" weight="2" />
+      <edge id="374" source="PARIS" target="MUSICIANS" weight="1" />
+      <edge id="375" source="PARIS" target="APOTHECARY" weight="1" />
+      <edge id="376" source="PARIS" target="NURSE" weight="2" />
+      <edge id="377" source="PARIS" target="SERVANT 2" weight="1" />
+      <edge id="378" source="PARIS" target="CAPULET" weight="4" />
+      <edge id="379" source="PARIS" target="ROMEO" weight="3" />
+      <edge id="380" source="PARIS" target="SERVANT" weight="2" />
+      <edge id="381" source="PARIS" target="PETER" weight="1" />
+      <edge id="382" source="PARIS" target="MERCUTIO" weight="1" />
+      <edge id="383" source="PARIS" target="MUSICIAN 3" weight="1" />
+      <edge id="384" source="PARIS" target="MUSICIAN 2" weight="1" />
+      <edge id="385" source="PARIS" target="PARIS" weight="4" />
+      <edge id="386" source="PARIS" target="FRIAR JOHN" weight="1" />
+      <edge id="387" source="PARIS" target="FRIAR LAURENCE" weight="3" />
+      <edge id="388" source="PARIS" target="PRINCE" weight="2" />
+      <edge id="389" source="PARIS" target="JULIET" weight="3" />
+      <edge id="390" source="PARIS" target="WATCH 2" weight="1" />
+      <edge id="391" source="PARIS" target="WATCH 3" weight="1" />
+      <edge id="392" source="PARIS" target="CITIZEN 1" weight="1" />
+      <edge id="393" source="PARIS" target="WATCH 1" weight="1" />
+      <edge id="394" source="PARIS" target="BALTHASAR" weight="1" />
+      <edge id="395" source="PARIS" target="PAGE" weight="1" />
+      <edge id="396" source="PARIS" target="BENVOLIO" weight="2" />
+      <edge id="397" source="FRIAR JOHN" target="WATCH 2" weight="1" />
+      <edge id="398" source="FRIAR JOHN" target="WATCH 3" weight="1" />
+      <edge id="399" source="FRIAR JOHN" target="WATCH 1" weight="1" />
+      <edge id="400" source="FRIAR JOHN" target="PARIS" weight="1" />
+      <edge id="401" source="FRIAR JOHN" target="FRIAR JOHN" weight="1" />
+      <edge id="402" source="FRIAR JOHN" target="FRIAR LAURENCE" weight="1" />
+      <edge id="403" source="FRIAR JOHN" target="LADY CAPULET" weight="1" />
+      <edge id="404" source="FRIAR JOHN" target="ROMEO" weight="1" />
+      <edge id="405" source="FRIAR JOHN" target="MONTAGUE" weight="1" />
+      <edge id="406" source="FRIAR JOHN" target="BALTHASAR" weight="1" />
+      <edge id="407" source="FRIAR JOHN" target="APOTHECARY" weight="1" />
+      <edge id="408" source="FRIAR JOHN" target="JULIET" weight="1" />
+      <edge id="409" source="FRIAR JOHN" target="PAGE" weight="1" />
+      <edge id="410" source="FRIAR JOHN" target="PRINCE" weight="1" />
+      <edge id="411" source="FRIAR JOHN" target="CAPULET" weight="1" />
+      <edge id="412" source="FRIAR LAURENCE" target="MUSICIAN 1" weight="1" />
+      <edge id="413" source="FRIAR LAURENCE" target="TYBALT" weight="1" />
+      <edge id="414" source="FRIAR LAURENCE" target="LADY CAPULET" weight="3" />
+      <edge id="415" source="FRIAR LAURENCE" target="MONTAGUE" weight="2" />
+      <edge id="416" source="FRIAR LAURENCE" target="MUSICIANS" weight="1" />
+      <edge id="417" source="FRIAR LAURENCE" target="APOTHECARY" weight="1" />
+      <edge id="418" source="FRIAR LAURENCE" target="NURSE" weight="3" />
+      <edge id="419" source="FRIAR LAURENCE" target="SERVANT 2" weight="1" />
+      <edge id="420" source="FRIAR LAURENCE" target="CAPULET" weight="3" />
+      <edge id="421" source="FRIAR LAURENCE" target="ROMEO" weight="4" />
+      <edge id="422" source="FRIAR LAURENCE" target="CITIZEN 1" weight="1" />
+      <edge id="423" source="FRIAR LAURENCE" target="PETER" weight="2" />
+      <edge id="424" source="FRIAR LAURENCE" target="MERCUTIO" weight="2" />
+      <edge id="425" source="FRIAR LAURENCE" target="MUSICIAN 3" weight="1" />
+      <edge id="426" source="FRIAR LAURENCE" target="MUSICIAN 2" weight="1" />
+      <edge id="427" source="FRIAR LAURENCE" target="PARIS" weight="3" />
+      <edge id="428" source="FRIAR LAURENCE" target="FRIAR JOHN" weight="1" />
+      <edge id="429" source="FRIAR LAURENCE" target="FRIAR LAURENCE" weight="5" />
+      <edge id="430" source="FRIAR LAURENCE" target="PRINCE" weight="2" />
+      <edge id="431" source="FRIAR LAURENCE" target="SERVANT" weight="1" />
+      <edge id="432" source="FRIAR LAURENCE" target="JULIET" weight="5" />
+      <edge id="433" source="FRIAR LAURENCE" target="WATCH 2" weight="1" />
+      <edge id="434" source="FRIAR LAURENCE" target="WATCH 3" weight="1" />
+      <edge id="435" source="FRIAR LAURENCE" target="WATCH 1" weight="1" />
+      <edge id="436" source="FRIAR LAURENCE" target="BALTHASAR" weight="1" />
+      <edge id="437" source="FRIAR LAURENCE" target="PAGE" weight="1" />
+      <edge id="438" source="FRIAR LAURENCE" target="BENVOLIO" weight="2" />
+      <edge id="439" source="GREGORY" target="SAMPSON" weight="1" />
+      <edge id="440" source="GREGORY" target="TYBALT" weight="1" />
+      <edge id="441" source="GREGORY" target="CITIZENS" weight="1" />
+      <edge id="442" source="GREGORY" target="LADY CAPULET" weight="1" />
+      <edge id="443" source="GREGORY" target="ROMEO" weight="1" />
+      <edge id="444" source="GREGORY" target="MONTAGUE" weight="1" />
+      <edge id="445" source="GREGORY" target="LADY MONTAGUE" weight="1" />
+      <edge id="446" source="GREGORY" target="GREGORY" weight="1" />
+      <edge id="447" source="GREGORY" target="ABRAHAM" weight="1" />
+      <edge id="448" source="GREGORY" target="PRINCE" weight="1" />
+      <edge id="449" source="GREGORY" target="BENVOLIO" weight="1" />
+      <edge id="450" source="GREGORY" target="CAPULET" weight="1" />
+      <edge id="451" source="ABRAHAM" target="SAMPSON" weight="1" />
+      <edge id="452" source="ABRAHAM" target="TYBALT" weight="1" />
+      <edge id="453" source="ABRAHAM" target="CITIZENS" weight="1" />
+      <edge id="454" source="ABRAHAM" target="LADY CAPULET" weight="1" />
+      <edge id="455" source="ABRAHAM" target="ROMEO" weight="1" />
+      <edge id="456" source="ABRAHAM" target="MONTAGUE" weight="1" />
+      <edge id="457" source="ABRAHAM" target="LADY MONTAGUE" weight="1" />
+      <edge id="458" source="ABRAHAM" target="GREGORY" weight="1" />
+      <edge id="459" source="ABRAHAM" target="ABRAHAM" weight="1" />
+      <edge id="460" source="ABRAHAM" target="PRINCE" weight="1" />
+      <edge id="461" source="ABRAHAM" target="BENVOLIO" weight="1" />
+      <edge id="462" source="ABRAHAM" target="CAPULET" weight="1" />
+      <edge id="463" source="PRINCE" target="SAMPSON" weight="1" />
+      <edge id="464" source="PRINCE" target="TYBALT" weight="2" />
+      <edge id="465" source="PRINCE" target="LADY CAPULET" weight="3" />
+      <edge id="466" source="PRINCE" target="MONTAGUE" weight="3" />
+      <edge id="467" source="PRINCE" target="APOTHECARY" weight="1" />
+      <edge id="468" source="PRINCE" target="NURSE" weight="1" />
+      <edge id="469" source="PRINCE" target="CAPULET" weight="3" />
+      <edge id="470" source="PRINCE" target="ROMEO" weight="3" />
+      <edge id="471" source="PRINCE" target="CITIZEN 1" weight="1" />
+      <edge id="472" source="PRINCE" target="LADY MONTAGUE" weight="1" />
+      <edge id="473" source="PRINCE" target="MERCUTIO" weight="1" />
+      <edge id="474" source="PRINCE" target="PARIS" weight="2" />
+      <edge id="475" source="PRINCE" target="FRIAR JOHN" weight="1" />
+      <edge id="476" source="PRINCE" target="FRIAR LAURENCE" weight="2" />
+      <edge id="477" source="PRINCE" target="GREGORY" weight="1" />
+      <edge id="478" source="PRINCE" target="ABRAHAM" weight="1" />
+      <edge id="479" source="PRINCE" target="PRINCE" weight="3" />
+      <edge id="480" source="PRINCE" target="JULIET" weight="2" />
+      <edge id="481" source="PRINCE" target="WATCH 2" weight="1" />
+      <edge id="482" source="PRINCE" target="WATCH 3" weight="1" />
+      <edge id="483" source="PRINCE" target="WATCH 1" weight="1" />
+      <edge id="484" source="PRINCE" target="CITIZENS" weight="1" />
+      <edge id="485" source="PRINCE" target="BALTHASAR" weight="1" />
+      <edge id="486" source="PRINCE" target="PAGE" weight="1" />
+      <edge id="487" source="PRINCE" target="BENVOLIO" weight="2" />
+      <edge id="488" source="JULIET" target="MUSICIAN 1" weight="1" />
+      <edge id="489" source="JULIET" target="CAPULET 2" weight="1" />
+      <edge id="490" source="JULIET" target="CITIZEN 1" weight="1" />
+      <edge id="491" source="JULIET" target="LADY CAPULET" weight="4" />
+      <edge id="492" source="JULIET" target="MONTAGUE" weight="2" />
+      <edge id="493" source="JULIET" target="MUSICIANS" weight="1" />
+      <edge id="494" source="JULIET" target="APOTHECARY" weight="1" />
+      <edge id="495" source="JULIET" target="NURSE" weight="5" />
+      <edge id="496" source="JULIET" target="SERVANT 2" weight="2" />
+      <edge id="497" source="JULIET" target="SERVANT 3" weight="1" />
+      <edge id="498" source="JULIET" target="CAPULET" weight="4" />
+      <edge id="499" source="JULIET" target="TYBALT" weight="2" />
+      <edge id="500" source="JULIET" target="ROMEO" weight="5" />
+      <edge id="501" source="JULIET" target="SERVANT" weight="3" />
+      <edge id="502" source="JULIET" target="PROLOGUE" weight="1" />
+      <edge id="503" source="JULIET" target="PETER" weight="2" />
+      <edge id="504" source="JULIET" target="MERCUTIO" weight="2" />
+      <edge id="505" source="JULIET" target="MUSICIAN 3" weight="1" />
+      <edge id="506" source="JULIET" target="MUSICIAN 2" weight="1" />
+      <edge id="507" source="JULIET" target="PARIS" weight="3" />
+      <edge id="508" source="JULIET" target="FRIAR JOHN" weight="1" />
+      <edge id="509" source="JULIET" target="FRIAR LAURENCE" weight="5" />
+      <edge id="510" source="JULIET" target="PRINCE" weight="2" />
+      <edge id="511" source="JULIET" target="JULIET" weight="7" />
+      <edge id="512" source="JULIET" target="WATCH 2" weight="1" />
+      <edge id="513" source="JULIET" target="WATCH 3" weight="1" />
+      <edge id="514" source="JULIET" target="WATCH 1" weight="1" />
+      <edge id="515" source="JULIET" target="CHORUS" weight="1" />
+      <edge id="516" source="JULIET" target="BALTHASAR" weight="1" />
+      <edge id="517" source="JULIET" target="PAGE" weight="1" />
+      <edge id="518" source="JULIET" target="BENVOLIO" weight="3" />
+      <edge id="519" source="WATCH 2" target="WATCH 2" weight="1" />
+      <edge id="520" source="WATCH 2" target="WATCH 3" weight="1" />
+      <edge id="521" source="WATCH 2" target="WATCH 1" weight="1" />
+      <edge id="522" source="WATCH 2" target="PARIS" weight="1" />
+      <edge id="523" source="WATCH 2" target="FRIAR JOHN" weight="1" />
+      <edge id="524" source="WATCH 2" target="FRIAR LAURENCE" weight="1" />
+      <edge id="525" source="WATCH 2" target="LADY CAPULET" weight="1" />
+      <edge id="526" source="WATCH 2" target="ROMEO" weight="1" />
+      <edge id="527" source="WATCH 2" target="MONTAGUE" weight="1" />
+      <edge id="528" source="WATCH 2" target="BALTHASAR" weight="1" />
+      <edge id="529" source="WATCH 2" target="APOTHECARY" weight="1" />
+      <edge id="530" source="WATCH 2" target="JULIET" weight="1" />
+      <edge id="531" source="WATCH 2" target="PAGE" weight="1" />
+      <edge id="532" source="WATCH 2" target="PRINCE" weight="1" />
+      <edge id="533" source="WATCH 2" target="CAPULET" weight="1" />
+      <edge id="534" source="WATCH 3" target="WATCH 2" weight="1" />
+      <edge id="535" source="WATCH 3" target="WATCH 3" weight="1" />
+      <edge id="536" source="WATCH 3" target="WATCH 1" weight="1" />
+      <edge id="537" source="WATCH 3" target="PARIS" weight="1" />
+      <edge id="538" source="WATCH 3" target="FRIAR JOHN" weight="1" />
+      <edge id="539" source="WATCH 3" target="FRIAR LAURENCE" weight="1" />
+      <edge id="540" source="WATCH 3" target="LADY CAPULET" weight="1" />
+      <edge id="541" source="WATCH 3" target="ROMEO" weight="1" />
+      <edge id="542" source="WATCH 3" target="MONTAGUE" weight="1" />
+      <edge id="543" source="WATCH 3" target="BALTHASAR" weight="1" />
+      <edge id="544" source="WATCH 3" target="APOTHECARY" weight="1" />
+      <edge id="545" source="WATCH 3" target="JULIET" weight="1" />
+      <edge id="546" source="WATCH 3" target="PAGE" weight="1" />
+      <edge id="547" source="WATCH 3" target="PRINCE" weight="1" />
+      <edge id="548" source="WATCH 3" target="CAPULET" weight="1" />
+      <edge id="549" source="CITIZEN 1" target="MERCUTIO" weight="1" />
+      <edge id="550" source="CITIZEN 1" target="TYBALT" weight="1" />
+      <edge id="551" source="CITIZEN 1" target="FRIAR LAURENCE" weight="1" />
+      <edge id="552" source="CITIZEN 1" target="LADY CAPULET" weight="1" />
+      <edge id="553" source="CITIZEN 1" target="ROMEO" weight="1" />
+      <edge id="554" source="CITIZEN 1" target="MONTAGUE" weight="1" />
+      <edge id="555" source="CITIZEN 1" target="CITIZEN 1" weight="1" />
+      <edge id="556" source="CITIZEN 1" target="NURSE" weight="1" />
+      <edge id="557" source="CITIZEN 1" target="JULIET" weight="1" />
+      <edge id="558" source="CITIZEN 1" target="PARIS" weight="1" />
+      <edge id="559" source="CITIZEN 1" target="PRINCE" weight="1" />
+      <edge id="560" source="CITIZEN 1" target="BENVOLIO" weight="1" />
+      <edge id="561" source="CITIZEN 1" target="CAPULET" weight="1" />
+      <edge id="562" source="WATCH 1" target="WATCH 2" weight="1" />
+      <edge id="563" source="WATCH 1" target="WATCH 3" weight="1" />
+      <edge id="564" source="WATCH 1" target="WATCH 1" weight="1" />
+      <edge id="565" source="WATCH 1" target="PARIS" weight="1" />
+      <edge id="566" source="WATCH 1" target="FRIAR JOHN" weight="1" />
+      <edge id="567" source="WATCH 1" target="FRIAR LAURENCE" weight="1" />
+      <edge id="568" source="WATCH 1" target="LADY CAPULET" weight="1" />
+      <edge id="569" source="WATCH 1" target="ROMEO" weight="1" />
+      <edge id="570" source="WATCH 1" target="MONTAGUE" weight="1" />
+      <edge id="571" source="WATCH 1" target="BALTHASAR" weight="1" />
+      <edge id="572" source="WATCH 1" target="APOTHECARY" weight="1" />
+      <edge id="573" source="WATCH 1" target="JULIET" weight="1" />
+      <edge id="574" source="WATCH 1" target="PAGE" weight="1" />
+      <edge id="575" source="WATCH 1" target="PRINCE" weight="1" />
+      <edge id="576" source="WATCH 1" target="CAPULET" weight="1" />
+      <edge id="577" source="CITIZENS" target="SAMPSON" weight="1" />
+      <edge id="578" source="CITIZENS" target="TYBALT" weight="1" />
+      <edge id="579" source="CITIZENS" target="CITIZENS" weight="1" />
+      <edge id="580" source="CITIZENS" target="LADY CAPULET" weight="1" />
+      <edge id="581" source="CITIZENS" target="ROMEO" weight="1" />
+      <edge id="582" source="CITIZENS" target="MONTAGUE" weight="1" />
+      <edge id="583" source="CITIZENS" target="LADY MONTAGUE" weight="1" />
+      <edge id="584" source="CITIZENS" target="GREGORY" weight="1" />
+      <edge id="585" source="CITIZENS" target="ABRAHAM" weight="1" />
+      <edge id="586" source="CITIZENS" target="PRINCE" weight="1" />
+      <edge id="587" source="CITIZENS" target="BENVOLIO" weight="1" />
+      <edge id="588" source="CITIZENS" target="CAPULET" weight="1" />
+      <edge id="589" source="CHORUS" target="CAPULET 2" weight="1" />
+      <edge id="590" source="CHORUS" target="SERVANT" weight="1" />
+      <edge id="591" source="CHORUS" target="ROMEO" weight="1" />
+      <edge id="592" source="CHORUS" target="CHORUS" weight="2" />
+      <edge id="593" source="CHORUS" target="TYBALT" weight="1" />
+      <edge id="594" source="CHORUS" target="PROLOGUE" weight="2" />
+      <edge id="595" source="CHORUS" target="NURSE" weight="1" />
+      <edge id="596" source="CHORUS" target="CAPULET" weight="1" />
+      <edge id="597" source="CHORUS" target="SERVANT 2" weight="1" />
+      <edge id="598" source="CHORUS" target="SERVANT 3" weight="1" />
+      <edge id="599" source="CHORUS" target="BENVOLIO" weight="1" />
+      <edge id="600" source="CHORUS" target="JULIET" weight="1" />
+      <edge id="601" source="BALTHASAR" target="WATCH 2" weight="1" />
+      <edge id="602" source="BALTHASAR" target="WATCH 3" weight="1" />
+      <edge id="603" source="BALTHASAR" target="WATCH 1" weight="1" />
+      <edge id="604" source="BALTHASAR" target="PARIS" weight="1" />
+      <edge id="605" source="BALTHASAR" target="FRIAR JOHN" weight="1" />
+      <edge id="606" source="BALTHASAR" target="FRIAR LAURENCE" weight="1" />
+      <edge id="607" source="BALTHASAR" target="LADY CAPULET" weight="1" />
+      <edge id="608" source="BALTHASAR" target="ROMEO" weight="1" />
+      <edge id="609" source="BALTHASAR" target="MONTAGUE" weight="1" />
+      <edge id="610" source="BALTHASAR" target="BALTHASAR" weight="1" />
+      <edge id="611" source="BALTHASAR" target="APOTHECARY" weight="1" />
+      <edge id="612" source="BALTHASAR" target="JULIET" weight="1" />
+      <edge id="613" source="BALTHASAR" target="PAGE" weight="1" />
+      <edge id="614" source="BALTHASAR" target="PRINCE" weight="1" />
+      <edge id="615" source="BALTHASAR" target="CAPULET" weight="1" />
+      <edge id="616" source="PAGE" target="WATCH 2" weight="1" />
+      <edge id="617" source="PAGE" target="WATCH 3" weight="1" />
+      <edge id="618" source="PAGE" target="WATCH 1" weight="1" />
+      <edge id="619" source="PAGE" target="PARIS" weight="1" />
+      <edge id="620" source="PAGE" target="FRIAR JOHN" weight="1" />
+      <edge id="621" source="PAGE" target="FRIAR LAURENCE" weight="1" />
+      <edge id="622" source="PAGE" target="LADY CAPULET" weight="1" />
+      <edge id="623" source="PAGE" target="ROMEO" weight="1" />
+      <edge id="624" source="PAGE" target="MONTAGUE" weight="1" />
+      <edge id="625" source="PAGE" target="BALTHASAR" weight="1" />
+      <edge id="626" source="PAGE" target="APOTHECARY" weight="1" />
+      <edge id="627" source="PAGE" target="JULIET" weight="1" />
+      <edge id="628" source="PAGE" target="PAGE" weight="1" />
+      <edge id="629" source="PAGE" target="PRINCE" weight="1" />
+      <edge id="630" source="PAGE" target="CAPULET" weight="1" />
+      <edge id="631" source="BENVOLIO" target="CAPULET 2" weight="1" />
+      <edge id="632" source="BENVOLIO" target="SAMPSON" weight="1" />
+      <edge id="633" source="BENVOLIO" target="TYBALT" weight="3" />
+      <edge id="634" source="BENVOLIO" target="LADY CAPULET" weight="2" />
+      <edge id="635" source="BENVOLIO" target="MONTAGUE" weight="2" />
+      <edge id="636" source="BENVOLIO" target="NURSE" weight="3" />
+      <edge id="637" source="BENVOLIO" target="SERVANT 2" weight="1" />
+      <edge id="638" source="BENVOLIO" target="SERVANT 3" weight="1" />
+      <edge id="639" source="BENVOLIO" target="CAPULET" weight="4" />
+      <edge id="640" source="BENVOLIO" target="ROMEO" weight="6" />
+      <edge id="641" source="BENVOLIO" target="SERVANT" weight="2" />
+      <edge id="642" source="BENVOLIO" target="PROLOGUE" weight="1" />
+      <edge id="643" source="BENVOLIO" target="PETER" weight="1" />
+      <edge id="644" source="BENVOLIO" target="LADY MONTAGUE" weight="1" />
+      <edge id="645" source="BENVOLIO" target="MERCUTIO" weight="3" />
+      <edge id="646" source="BENVOLIO" target="PARIS" weight="2" />
+      <edge id="647" source="BENVOLIO" target="FRIAR LAURENCE" weight="2" />
+      <edge id="648" source="BENVOLIO" target="GREGORY" weight="1" />
+      <edge id="649" source="BENVOLIO" target="ABRAHAM" weight="1" />
+      <edge id="650" source="BENVOLIO" target="PRINCE" weight="2" />
+      <edge id="651" source="BENVOLIO" target="JULIET" weight="3" />
+      <edge id="652" source="BENVOLIO" target="CITIZEN 1" weight="1" />
+      <edge id="653" source="BENVOLIO" target="CITIZENS" weight="1" />
+      <edge id="654" source="BENVOLIO" target="CHORUS" weight="1" />
+      <edge id="655" source="BENVOLIO" target="BENVOLIO" weight="6" />
+    </edges>
+  </graph>
+</gexf>
