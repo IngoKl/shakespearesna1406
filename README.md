@@ -1,4 +1,7 @@
 # Shakespeare - Social Network Analysis
+
+![raj](https://cloud.githubusercontent.com/assets/16179317/15912017/7e48441c-2dd2-11e6-99c3-c0dcd4da1e31.png)
+
 ## Introduction
 This repository holds both the Python and R code used to analyze some of Shakespeare's plays for the *Special Lecture: 
 Shakespeare - A Celebration in Style* at the Heidelberg University English Department on June 06, 2016.
